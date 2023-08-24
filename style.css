@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    font-family:  'Ubuntu', sans-serif;
+}
+    body {
+    background-image: url(background.jpg);
+  
+
+    background-size: cover;
+}
+.corpus {
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 2%;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-bottom: 3%;
+    padding: 6% 5%;
+    border-radius: 10px;
+}
+.logo {
+    margin: auto;
+    display: block;
+    width: 200px;
+    height: auto;
+    box-sizing: content-box;
+}
+h1 {
+    color: rgb(28, 200, 6);
+    text-align: center;
+    font-weight: 500;
+}
+nav {
+    text-align: center;
+    background-color: rgb(28, 200, 6);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 0.5%;
+}
+button {
+    margin: 0% 0.25%;
+    font-weight: 200;
+    font-size: 10px;
+    
+}
+main {
+    color: white;
+}
+.scooter-name {
+    font-size: larger;
+    font-weight: initial;
+}
+.progress-container1 {
+    width: 34%;
+    height: 24px;
+    background-color: #f0f0f0;
+    border-radius: 7px;
+}
+.progress-container2 {
+    width: 60%;
+    height: 24px;
+    background-color: #f0f0f0;
+    border-radius: 7px; 
+}    
+.progress-container3 {
+    width: 15%;
+    height: 24px;
+    background-color: #f0f0f0;
+    border-radius: 7px; 
+}
+.progress1 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(241, 166, 66);
+    border-radius: 7px;
+}
+.progress2 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(59, 198, 0);
+    border-radius: 7px; 
+}
+.progress3 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(233, 96, 69);
+    border-radius: 7px;
+}    
+section {
+    padding: 2% 0%;
+    font-weight: 200;
+}
